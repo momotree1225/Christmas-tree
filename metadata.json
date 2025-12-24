@@ -1,0 +1,7 @@
+{
+  "name": "Golden Luxury Christmas Tree",
+  "description": "A luxurious, gold-and-emerald particle Christmas tree controlled by hand gestures via MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
